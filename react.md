@@ -12,6 +12,18 @@
    
 >❗️React 배우면서 자주 나올 map, filter, spread(...) 꼭 복습!   
 
+### 다시보기
+1) web
+- HTML & CSS : 2시간
+- CSS Layout : 2시간
+2) JavaScript
+- DOM : 2시간
+- Basic syntax 1 : 2시간
+- Basic syntax 2 : 2시간
+- Controlling Event : 2시간
+- 비동기 JS : 2시간  
+> 총 시간 : 10시간   
+
 ---
 
 ## 2. React 기본 개념 익히기  
